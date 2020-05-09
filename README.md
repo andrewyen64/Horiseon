@@ -10,7 +10,9 @@ Horiseon provides a couple of benefits and helpful tools to satisfy your busines
 ## HTML edits
 - added alt descriptions for all images
 - changed title to an actual title (Horiseon)
-- added "id = search-engine-optimization" to fix the "Search Engine Optimization" button in the header
+- added "id = search-engine-optimization" to fix the "Search Engine Optimization"   button in the header
+- removed redundant classes
+
 
 ## CSS edits
 - applied the DRY principle to clean up images/headings/classes code
