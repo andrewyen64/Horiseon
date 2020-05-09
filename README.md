@@ -15,7 +15,7 @@ Horiseon provides a couple of benefits and helpful tools to satisfy your busines
 
 
 ## CSS edits
-- applied the DRY principle to clean up images/headings/classes code
+- applied the DRY principle to clean up a/images/headings/classes
 
 
 ## License
